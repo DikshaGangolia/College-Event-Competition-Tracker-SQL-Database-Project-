@@ -1,4 +1,4 @@
-##🎓 Project Title: College Event & Competition Tracker (SQL Database Project) 🗂
+## 🎓 Project Title: College Event & Competition Tracker (SQL Database Project) 🗂
 
 I’m excited to share my latest SQL-based project — College Event & Competition Tracker — a database system designed to manage and analyze college-level events and competitions efficiently.
 
