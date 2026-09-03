@@ -31,6 +31,7 @@ Display winners with scores
 Find the most popular event based on registrations
 
 ## 🚀 This project helped me 
+
 strengthen my database design, relational modeling, and SQL query optimization skills — bringing real-world college management workflows into a digital system.
 
 #SQL #MySQL #DatabaseProject #StudentProjects #DataAnalytics #LearningByBuilding #CollegeManagement #TechProjects #SQLDeveloper
