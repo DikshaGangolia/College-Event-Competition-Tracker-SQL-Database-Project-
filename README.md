@@ -5,6 +5,7 @@
 ## 📌 Project Overview
 
 The **College Event & Competition Tracker** is a relational database project that helps organize and manage college-level events and competitions. The system provides a structured way to store information about students, events, registrations, results, and notifications.
+
 It also supports meaningful analysis of participation and event performance, making it easier to understand which events attract the most interest and identify competition outcomes.
 
 ---
